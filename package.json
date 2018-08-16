@@ -1,0 +1,21 @@
+{
+  "name": "devconnect",
+  "version": "1.0.0",
+  "description": "first mern app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [
+    "mongo",
+    "express",
+    "react",
+    "node"
+  ],
+  "author": "Daniel",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
